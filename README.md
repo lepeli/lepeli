@@ -8,5 +8,5 @@ I mostly code in Python, but I can also code in Javascript, Typescript, PHP.
 
 ![Lepeli's github stats](https://github-readme-stats.vercel.app/api?username=lepeli&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepeli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepeli&layout=compact)
 
