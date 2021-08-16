@@ -2,11 +2,11 @@
 
 
 I'm a 18 year old student. I mainly do backend stuff and discord bots.
-I previously had two summer jobs as a developper (developped interfaces using React and Angular.js)
+I previously had 3 summer jobs as a developper (developped interfaces using React and Angular.js)
 
 I mostly code in Python, but I can also code in Javascript, Typescript, PHP. 
 
-I'm working at [@Futuradios](https://github.com/futuradios) as a developper and a music programmer.
+I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
 
 ![Lepeli's github stats](https://github-readme-stats.vercel.app/api?username=lepeli&show_icons=true&count_private=true)
 
