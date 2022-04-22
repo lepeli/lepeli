@@ -4,7 +4,7 @@
 I'm a 19 years old student. I mainly do backend stuff and discord bots.
 I previously had 3 summer jobs as a developper (developped interfaces using React and Angular.js)
 
-I mostly code in Python, but I can also code in Javascript, Typescript, PHP. 
+I mostly code in Python, but I can also code in Javascript, Typescript, PHP, Java and C. 
 
 I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
 
