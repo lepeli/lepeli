@@ -29,5 +29,4 @@ It includes multiple languages such as English and French and other languages ca
 
 ![Kawaiibot's presentation](./images/kawaiibot.png)
 
-Kawaiibot **was** (at least for now) a discord bot made for the anime community.
-It was developped in Kotlin.
+[Kawaiibot](https://github.com/kawaiibot) is a discord bot made for the anime community.
