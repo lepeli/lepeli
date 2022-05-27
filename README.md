@@ -21,7 +21,7 @@ My personnal blog: https://blog.yvan.dev/
 
 ![Fujibot logo](images/fujibot_big.png)
 
-Fujibot is a discord bot made in python, useful for moderating your server and logging actions made by moderators.
+Fujibot was a discord bot made in python, useful for moderating your server and logging actions made by moderators.
 
 It includes multiple languages such as English and French and other languages can be added.
 
