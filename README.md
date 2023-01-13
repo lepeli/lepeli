@@ -10,10 +10,6 @@ I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
 
 My personnal blog: https://blog.yvan.dev/
 
-![Lepeli's github stats](https://github-readme-stats.vercel.app/api?username=lepeli&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lepeli&layout=compact)
-
 
 ## Projects
 
