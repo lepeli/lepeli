@@ -10,10 +10,18 @@ I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
 
 My personnal blog: https://blog.yvan.dev/
 
+### 🏫 School projects
 
-## Projects
+#### :bomb: Minesweeper
 
-## Fujibot
+Le but de ce projet était de réaliser un démineur en Java.
+
+Les sources: [demineur](https://github.com/lepeli/demineur)
+
+
+### Personnal projects
+
+#### Fujibot
 
 ![Fujibot logo](images/fujibot_big.png)
 
@@ -21,7 +29,7 @@ Fujibot was a discord bot made in python, useful for moderating your server and 
 
 It includes multiple languages such as English and French and other languages can be added.
 
-## Kawaiibot
+#### Kawaiibot
 
 ![Kawaiibot's presentation](./images/kawaiibot.png)
 
