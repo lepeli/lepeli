@@ -4,6 +4,8 @@
 I'm a 20 years old student. I mainly do backend stuff and discord bots.
 I previously had 3 summer jobs as a developper (developped interfaces using React and Angular.js)
 
+
+
 I mostly code in Python, but I can also code in Javascript, Typescript, PHP, Java and C. 
 
 I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
@@ -30,18 +32,18 @@ Création du jeu Mastermind sur Android
 
 Les sources: [mastermind](https://github.com/lepeli/mastermind)
 
-### Personnal projects
+### Projets personnels
 
 #### Fujibot
 
 ![Fujibot logo](images/fujibot_big.png)
 
-Fujibot was a discord bot made in python, useful for moderating your server and logging actions made by moderators.
+Fujibot était un bot discord créé en python, il permettait de modérer un serveur tout en gardant trace des actions faites par des modérateurs.
 
-It includes multiple languages such as English and French and other languages can be added.
+Fujibot était traduit en Anglais et Français, ainsi qu'Allemand.
 
 #### Kawaiibot
 
 ![Kawaiibot's presentation](./images/kawaiibot.png)
 
-[Kawaiibot](https://github.com/kawaiibot) is a discord bot made for the anime community.
+[Kawaiibot](https://github.com/kawaiibot) est un bot discord pour la communauté fan d'animés.
