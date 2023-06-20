@@ -1,18 +1,14 @@
 # Yvan.md
 
+Étudiant de 20 ans en But informatique. Je fais principalement du backend et du devops.
 
-I'm a 20 years old student. I mainly do backend stuff and discord bots.
-I previously had 3 summer jobs as a developper (developped interfaces using React and Angular.js)
+Actuellement alternant en tant que Devops au sein du projet France Identité.
 
+Langages connus: Javascript, Typescript, Java, Bash, PHP, C.
 
+Blog personnel: https://blog.yvan.dev/
 
-I mostly code in Python, but I can also code in Javascript, Typescript, PHP, Java and C. 
-
-I'm working at [@Futuradios](https://github.com/futuradios) as a developper.
-
-My personnal blog: https://blog.yvan.dev/
-
-### 🏫 School projects
+### 🏫 Projets scolaires
 
 #### :bomb: Minesweeper
 
@@ -32,9 +28,9 @@ Création du jeu Mastermind sur Android
 
 Les sources: [mastermind](https://github.com/lepeli/mastermind)
 
-### Projets personnels
+## Projets personnels
 
-#### Fujibot
+### Fujibot
 
 ![Fujibot logo](images/fujibot_big.png)
 
@@ -42,7 +38,7 @@ Fujibot était un bot discord créé en python, il permettait de modérer un ser
 
 Fujibot était traduit en Anglais et Français, ainsi qu'Allemand.
 
-#### Kawaiibot
+### Kawaiibot
 
 ![Kawaiibot's presentation](./images/kawaiibot.png)
 
