@@ -18,6 +18,17 @@ Le but de ce projet était de réaliser un démineur en Java.
 
 Les sources: [demineur](https://github.com/lepeli/demineur)
 
+### Komposant
+
+Réalisation d'un site web dans le cadre d'une situation d'apprentissage avec pour thème le commerce circulaire
+
+Les sources: [komposant](https://github.com/lepeli/komposant)
+
+### 🔵⚫⚪ Mastermind Android
+
+Création du jeu Mastermind sur Android
+
+Les sources: [mastermind](https://github.com/lepeli/mastermind)
 
 ### Personnal projects
 
