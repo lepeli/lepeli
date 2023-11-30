@@ -1,8 +1,8 @@
 # Yvan.md
 
-Étudiant de 20 ans en But informatique. Je fais principalement du backend et du devops.
+Étudiant de 20 ans en école d'ingénieur. Je fais principalement du backend et du devops.
 
-Actuellement alternant en tant que Devops au sein du projet France Identité.
+Actuellement alternant en tant que Devops au sein de Dassault Systèmes.
 
 Langages connus: Javascript, Typescript, Java, Bash, PHP, C.
 
