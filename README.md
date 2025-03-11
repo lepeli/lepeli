@@ -1,6 +1,6 @@
 # Yvan.md
 
-Étudiant de 21 ans en école d'ingénieur. Je fais principalement du backend et du devops.
+Étudiant de 22 ans en école d'ingénieur. Je fais principalement du backend et du devops.
 
 Actuellement alternant en tant que Devops au sein de Dassault Systèmes.
 
